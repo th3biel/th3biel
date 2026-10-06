@@ -22,4 +22,4 @@
 
 ### 📫 Contacto
 - **LinkedIn:** [[Meu Perfil](https://www.linkedin.com/in/gabriel-santana-885253291/?isSelfProfile=true)]
-- **E-mail:** [Meu e-mail (gabrielalexandre219s@outlook.com)]
+- **E-mail:** [gabrielalexandre219s@outlook.com]
