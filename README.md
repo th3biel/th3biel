@@ -7,7 +7,7 @@
 ### 🧪 Sobre mim
 - 💻 Atualmente focado em aprimorar os meus conhecimentos em **Java**.
 - 🌐 Estudo ativo em **Redes de Computadores**, com foco no modelo **TCP/IP**.
-- 🛠️ Experiência com simulação de redes usando o **Cisco Packet Tracer**.
+- 🛠️ Conhecimento em simulação de redes usando o **Cisco Packet Tracer**.
 - 🚀 A praticar lógica de programação e resolução de problemas através de plataformas como **Beecrowd** e **LeetCode**.
 
 ---
